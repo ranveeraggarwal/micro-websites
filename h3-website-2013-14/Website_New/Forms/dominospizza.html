@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Pizza Order Form</title>
+    <link rel="shortcut icon" href="./img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="span1"> <img src="./img/h3logo.jpg"></div>
+        <div class="span6">
+      <h1>Hostel 3, IIT Bombay</h1>
+      <h2>Domino's Pizza Order Form</h2>
+      
+    </div>
+  </div>
+  <div class="row">
+    <hr>
+      <br>
+      <br>
+      <br>
+
+      <form action="submitpizza.php" method="post">
+        <table class="table table-striped">
+          <tr>
+      <td>Pizza</td><td>Veg/Non-Veg</td><td> Cost </td>
+      <td>Number of Pizzas</td>
+    </tr>
+          <tr>
+      <td width="40%">Onion and Capsicum</td><td width="20%"><img src="img/veg.png" height="15%" width="15%" style="display: block; margin-left:10%; margin-right: auto;"></td><td width="20%"> Rs 65 </td>
+      <td width="50%"><select name="OnC">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>      </td>
+    </tr>
+    <tr>
+    <td width="40%">Onion and Paneer</td><td width="20%"><img src="img/veg.png" height="15%" width="15%" style="display: block; margin-left:10%; margin-right: auto;"></td><td width="20%"> Rs 65 </td>
+      <td width="50%"><select name="OnP">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>      </td>
+    </tr>
+    <tr>
+    <td width="40%">Capsicum and Chunky Chicken</td><td width="20%"><img src="img/non-veg.png" height="15%" width="15%" style="display: block; margin-left:10%; margin-right: auto;"></td><td width="20%"> Rs 87 </td>
+      <td width="50%"><select name="CnCC">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>      </td>
+    </tr>
+    <tr>
+    <td width="40%">Onion and Spicy Chicken</td><td width="20%"><img src="img/non-veg.png" height="15%" width="15%" style="display: block; margin-left:10%; margin-right: auto;"></td><td width="20%"> Rs 87</td>
+      <td width="50%"><select name="OnSC">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>      </td>
+    </tr>
+    <tr>
+    <td width="40%">Farmhouse (Cheeseburst)</td><td width="20%"><img src="img/veg.png" height="15%" width="15%" style="display: block; margin-left:10%; margin-right: auto;"></td><td width="20%"> Rs 210 </td>
+      <td width="50%"><select name="FCB">
+          <option value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>      </td>
+    </tr>
+        </table>
+<br>
+<br>
+<hr>
+</div>
+<div class="row">
+        <div class="span2">
+          <img src="./img/dominos.png">
+        </div>
+
+        <div class="span5 well">
+        <div class="form-horizontal" id="check">
+  <div class="control-group">
+    <label class="control-label" for="inputEmail">LDAP ID</label>
+    <div class="controls">
+      <input type="text" name="user" id="inputEmail" placeholder="LDAP ID">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputPassword">Password</label>
+    <div class="controls">
+      <input type="password" name="pass" id="inputPassword" placeholder="Password">
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="controls">
+      <button type="submit" name="sublogin" class="btn">Submit</button>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</form>
+
+
+    
+
+
+
+
+    </div>
+  </body>
+</html>

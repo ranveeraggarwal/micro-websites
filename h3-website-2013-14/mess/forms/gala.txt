@@ -1,0 +1,90 @@
+
+ranveer,120050020, Ranveer Aggarwal,101 ,1
+
+arvindjangid,11D020019,Arvind Jangid,209 ,1
+
+110070043,110070043, G.V.N.R.Mohit, 175,1
+
+12d070038,12D070038, Lakshay Kumar, 108,1
+
+rk1891,09D02028, Rishabh Khandelwal,262 ,1
+
+12d070058,12D070058, bala chander, 110,1
+
+rakesh.kr,120260015, Rakesh Kumar, 111,1
+
+133040057,133040057, , ,1
+
+kirannaik.danavath,110260024, kiran naik, 149,1
+
+vaibhavhanduja,120040061, vaibhavhanduja, 129,1
+
+12d070050,12D070050, deepesh kumar mahawar,12d070050,1
+
+shantanuag,110260020, Shantanu Agarwal, 356,1
+
+jitesh_phulwani,09D02025, Jitesh,342 ,1
+
+120110014,120110014, Karan Bhat,148 ,1
+
+prabhakar.p,110110051, Prabhakar, 367,1
+
+120100038,120100038, rahul poonia, 124,1
+
+12d070060,12D070060, R Manoj Kumar, 113,1
+
+divyansh.chug,120040056, Divyansh Chug,276 ,1
+
+110040081,110040081, kratagya,343 ,1
+
+120100033,120100033, Suraj Poonia,122 ,1
+
+120100025,120100025,Sanchit Dhole,122 ,1
+
+shees_ali,120040106, shees ali,203 ,1
+
+abhishekkumawat,100040039, Abhishek Kumawat,231 ,1
+
+vipulsingh1991,100050057, Vipul Singh, 263,1
+
+100050052,100050052, Dikkala Sai Nishanth,316 ,1
+
+133040039,133040039, Gaurav Kejriwal, 156,1
+
+133010004,133010004,Suman Chakraborty, 289,1
+
+133020003,133020003,Swagnik Ghosh, 157,1
+
+133020010,133020010,Rajarshi Sengupta, 160,1
+
+133300025,133300025, ANUBHAW BOROGAON,156 ,1
+
+bhargavchippada,120050053,Bhargav Chippada, 104,1
+
+110040045,110040045, Dinesh meena, 228,1
+
+kheraj.choudhary,110040046, kheraj, 228,1
+
+110040084,110040084, Brajendra Pratap, 340,1
+
+12i190011,12I190011, Sukanta Halder, 286,1
+
+12d070056,12D070056, RASAGNYA KUMAR SAKINALA,116 ,1
+
+sharadsamaiya,110040048, sharad samaiya, 322,1
+
+133010029,133010029,Abhishek, 383,1
+
+mayanksaraswat,120100054, mayank saraswat,115 ,1
+
+prakharsingh16,120040077, Prakhar Singh,368 ,1
+
+133020019,133020019, ASHISH SINGH,165 ,1
+
+sanidhya,120100037,sanidhya gupta,139 ,1
+
+sarathkumarv,120100071, V SARATH KUMAR,124 ,1
+
+133020005,133020005, Shashwat Omar,158 ,1
+
+rishabh.khandelwal,11D260007, Rishabh Khandelwal,356 ,1

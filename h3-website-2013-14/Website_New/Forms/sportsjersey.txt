@@ -1,0 +1,114 @@
+
+ranveer,120050020, Ranveer Aggarwal,10,101 ,XL ,1 
+
+divyansh.chug,120040056, Divyansh Chug,22 ,276 ,M ,1 
+
+kaushal_kumar,08004048, KAUSHAL KUMAR, 22,318, XL, 1
+
+110040063,110040063, sandeep , 22, 238, m,1
+
+ramandeep.ce,133040064, Ramandeep Singh, 26, 191, M, 1
+
+arvindjangid,11D020019, Arvind Jangid, 11, 209, M, 1
+
+kheraj.choudhary,110040046,Kheraj, 1, 228, M, 1
+
+120110030,120110030, SHREY MANGLA,22 , 123, M, 1
+
+110110027,110110027, naresh, 22, 134,xl, 1
+
+
+
+110040062,110040062,ajay ,4 ,238 ,M ,1 
+
+133040051,133040051, MUKUL, 16, 189,m ,1 
+
+110040045,110040045, Dinesh meena, 77 ,7, 228, M , 2
+
+harphool,110040047,Harphool Singh, 47, 322, M, 1
+
+12d070060,12D070060, R Manoj Kumar, 6, 113, M, 1
+
+ashishkumarsingh,09D02026, Ashish, 10, 347, M, 1
+
+mohitp,12D070042, mohit pancholi, 8, 133,M, 1
+
+133010029,133010029, Abhishek Sharma, 09, 383, L, 1
+
+karthick.sachin,133010010, KARTHICK , 10, 292, S, 1
+
+133014005,133014005, RAJESH , 09, 294, XL, 1
+
+133020022,133020022,rattu,99,163,L,1
+
+vaibhavhanduja,120040061, VAIBHAV HANDUJA,20 ,129 ,L , 1
+
+133020001,133020001,tej,07,157,L,1
+
+133300009,133300009, AMIT KUMAR, 10, 155, L, 1
+
+133010005,133010005, VISHNU SIVADASAN,23 ,290 ,XXL , 1
+
+sarathkumarv,120100071, V SARATH KUMAR, 10, 124, L, 1
+
+vamshikrishna.b,12D070061, vamshi krishna, 10, 109, M, 1
+
+120050064,120050064, Nishanth, 17, 102, M, 1
+
+133014001,133014001, ABHILASH M, 23, 294/0th wing, XL, 1
+
+sumeet.sb,12D070022,Sumeet , 23,131 ,XL ,1 
+
+akshaybkhadse,100010012, Ammofreak, 15, 224, M, 1
+
+sarangminhas,100010007, Sarang, 3, 323, , L
+
+dilipsoni,120040053, Dilip Soni,5 ,130 ,xl ,1 
+
+110070044,110070044, sai sumanth,06 ,171 ,m ,1 
+
+tejas_kolhe,10D170010, Tejas Kolhe, 69, 257, L, 1
+
+parveen_dhillon,110100091, Parveen Dhillon,88, 152, XXXL, 1
+
+akshayshetty,100010006, Akshay Shetty,24 ,325 ,XL , 1
+
+kirannaik.danavath,110260024,kiran, 08, 149, L, 01
+
+
+
+dev_meena,09D11049,Devendra Meena,15 ,328 , S,1
+
+sanidhya,120100037, Sani,1 ,139 ,XL ,1 
+
+120100092,120100092,SHIVAM,13 ,139 ,XL ,1 
+
+sagar.sheth,120110013, Sagar, 13, 114, L, 1
+
+12d070054,12D070054, PRASHANTH, 8, 131, L, 1
+
+shobhit.sri,101030023, Shobhit Srivastava,9 ,376 ,M ,1 
+
+gurman,10D170018, Gurman, 7, 365, L, 1
+
+vinitvijay,100040038, Golu, 19, 239, L, 1
+
+133040031,133040031, Rajkumar, 22, 191, L, 1
+
+abhishek_anand,100050047, ANAND, 10, 265, M, 1
+
+divyansh11,120040081, DIVYANSH,11 ,240 ,L ,1 
+
+varun,110070040, Varun Bairaboina, 10, 125, XL, 1
+
+09d02036,09D02036, manthri anirudh, 11, 227, M, 1
+
+133020025,133020025,GAINI, 8, 164,S, 1
+
+120100070,120100070, Krishna Prasad, 7, 138, , 
+
+133020003,133020003, Swagnik Ghosh, 17, 157, XL, 1
+
+sharadsamaiya,110040048, Sharad Samaiya, 25,322, M, 1
+
+mastram_meena,09D02041, Mastram , 10, 333, XS, 1
