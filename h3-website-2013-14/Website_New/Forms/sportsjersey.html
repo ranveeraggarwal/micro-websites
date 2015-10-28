@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sports Jersey Order Form</title>
+    <link rel="shortcut icon" href="./img/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="span1"> <img src="./img/h3logo.jpg"></div>
+        <div class="span6">
+      <h1>Hostel 3, IIT Bombay</h1>
+      <h2>Sports Jersey Order Form</h2>
+      
+    </div>
+  </div>
+  <div class="row">
+    <hr>
+    
+      <p><b>Size Chart</b></p>
+<table class="table table-hover">
+    <tr>
+      <td><strong>Size</strong></td><td><strong>Chest</strong></td><td><strong> Length </strong></td><td><strong>Shoulder to Shoulder</strong></td>
+    </tr>
+    <tr>
+      <td width="25%">XS</td><td width="25%">18</td><td width="25%">27.5</td><td width="25%">16.5</td>
+    </tr>
+    <tr>
+      <td width="25%">S</td><td width="25%">19.5</td><td width="25%">28.5</td><td width="25%">18</td>
+    </tr>
+    <tr>
+      <td width="25%">M</td><td width="25%">21</td><td width="25%">29.5</td><td width="25%">19.5</td>
+    </tr>
+    <tr>
+      <td width="25%">L</td><td width="25%">22.5</td><td width="25%">30.5</td><td width="25%">21</td>
+    </tr>
+    <tr>
+      <td width="25%">XL</td><td width="25%">24</td><td width="25%">31.5</td><td width="25%">22.5</td>
+    </tr>
+    <tr>
+      <td width="25%">XXL</td><td width="25%">25.5</td><td width="25%">32.5</td><td width="25%">24</td>
+    </tr>
+    <tr>
+      <td width="25%">XXXL</td><td width="25%">27</td><td width="25%">33.5</td><td width="25%">25.5</td>
+    </tr>
+        </table>
+        </div>
+
+        <div class="row">
+        <h3>Form (Cost of each jersey is &#8377; 270)</h3>
+
+      <form action="sportsjersey.php" method="post">
+
+
+      <table class="table table-striped">
+          <tr>
+            <td width="30%">Name</td>
+            <td width="70%"><textarea id="naam" rows="1" cols="100" name="naam"> </textarea></td>
+          </tr>
+          <tr>
+            <td width="30%">Jersey No. (0-99)</td>
+            <td width="70%"><textarea id="number" rows="1" cols="100" name="number"> </textarea></td>
+          </tr>
+          <tr>
+            <td width="30%">Room No.</td>
+            <td width="70%"><textarea id="room" rows="1" cols="100" name="room"> </textarea></td>
+          </tr>
+          <tr>
+            <td width="30%">Jersey Size (XS, S, M, ...)</td>
+            <td width="70%"><textarea id="kiti" rows="1" cols="100" name="kiti"> </textarea></td>
+          </tr>  
+          <tr>
+            <td width="30%">Number of jerseys</td>
+            <td width="70%"><textarea id="kitni" rows="1" cols="100" name="kitni"> </textarea></td>
+          </tr>  
+        </table>
+        <p>Note: If more than one jersey required with different no.printed on each, contact <a href="mailto:divyansh.chug@gmail.com">Divyansh Chug</a></p>
+        <div class="span2">
+          
+        </div>
+       
+        <div class="span5 well">
+        <h3>Login</h3>
+        <div class="form-horizontal" id="check">
+  <div class="control-group">
+    <label class="control-label" for="inputEmail">LDAP ID</label>
+    <div class="controls">
+      <input type="text" name="user" id="inputEmail" placeholder="LDAP ID">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputPassword">Password</label>
+    <div class="controls">
+      <input type="password" name="pass" id="inputPassword" placeholder="Password">
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="controls">
+      <button type="submit" name="sublogin" class="btn">Submit</button>
+    </div>
+  </div>
+</div>
+</div>
+
+</form>
+
+
+    
+
+
+
+
+    </div>
+  </body>
+</html>
