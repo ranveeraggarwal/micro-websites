@@ -1,0 +1,87 @@
+<div class="container" ng-controller="searchController as ser">
+	<div class="row">
+		<div class="col l12 s12 blue-grey-text">
+			<h4>Search</h4>
+			<hr>
+		</div>
+	</div>
+	<div class="row">
+	    <div class="col s12">
+	    	<div class="row">
+	    		<div class="col m6">
+	    			<p class="flow-text">You can search Trade Workflows via Trade IDs, Bulk IDs, Group IDs and Date.</p>
+			    	<form action="#" class="blue-grey-text">
+					    <p>
+					      <input name="g1" type="radio" id="trade" ng-model="setype" value="trade" />
+					      <label for="trade">Trade ID</label>
+					    </p>
+					    <p>
+					      <input name="g1" type="radio" id="bulk" ng-model="setype" value="bulk" />
+					      <label for="bulk">Bulk ID</label>
+					    </p>
+					    <p>
+					      <input name="g1" type="radio" id="group" ng-model="setype" value="group" />
+					      <label for="group">Group ID</label>
+					    </p>
+					    <p>
+					        <input name="g1" type="radio" id="date" disabled="disabled" ng-model="setype" value="date" />
+					        <label for="date">Date</label>
+					    </p>
+					</form>
+				</div>
+				<div class="col m6">
+			    	<form>
+				    	<div class="row">
+				    		<div class="col m12" ng-show="setype == 'trade'">
+				    			<div class="card">
+									<div class="card-content">
+										<span class="card-title blue-grey-text">Trade ID</span>
+										<p>Enter the Trade ID to go to the workflow.</p>
+							    		<div class="input-field">
+								          <input id="tid" type="text" class="validate" ng-model="tid">
+								          <label for="tid">Search by Trade ID</label>
+								        </div>
+									</div>
+									<div class="card-action">
+										<a ng-href="/#/workflow/{{tid}}" class="waves-effect waves-light btn blue-grey darken-3 white-text">Go</a>
+									</div>
+								</div>
+				    		</div>
+				    		<div class="col m12" ng-show="setype == 'bulk'">
+				    			<div class="card">
+									<div class="card-content">
+										<span class="card-title blue-grey-text">Bulk ID</span>
+										<p>Enter the Bulk ID to select from a list of workflows.</p>
+							    		<div class="input-field">
+								          <input id="bid" type="text" class="validate" ng-model="bid">
+								          <label for="bid">Search by Bulk ID</label>
+								        </div>
+									</div>
+									<div class="card-action">
+										<a ng-href="/#/results/bid/{{bid}}" class="waves-effect waves-light btn blue-grey darken-3 white-text">Go</a>
+									</div>
+								</div>
+				    		</div>
+				    		<div class="col m12" ng-show="setype == 'group'">
+				    			<div class="card">
+									<div class="card-content">
+										<span class="card-title blue-grey-text">Group ID</span>
+										<p>Enter the Group ID to select from a list of workflows.</p>
+							    		<div class="input-field">
+								          <input id="gid" type="text" class="validate" ng-model="gid">
+								          <label for="gid">Search by Group ID</label>
+								        </div>
+									</div>
+									<div class="card-action">
+										<a ng-href="/#/results/gid/{{gid}}" class="waves-effect waves-light btn blue-grey darken-3 white-text">Go</a>
+									</div>
+								</div>
+				    		</div>
+				    	</div>
+			    	</form>
+			    </div>
+			</div>
+	  	</div>
+	  	
+	</div>
+</div>

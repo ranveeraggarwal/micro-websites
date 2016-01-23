@@ -1,0 +1,36 @@
+<div class="container" ng-controller="resultsController">
+	<div class="row">
+		<div class="col l12 s12 blue-grey-text">
+			<h4>Search Results</h4>
+			<hr>
+			<table st-table="rowCollection" class="centered bordered">
+		      <thead>
+		      <tr>
+		        <th st-sort="tradeid">Trade ID</th>
+		        <th st-sort="bulkid">Bulk ID</th>
+		        <th st-sort="groupid">Group ID</th>
+		        <th st-sort="quantity">Quantity</th>
+		        <th st-sort="status">Status</th>
+		      </tr>        
+		      </thead>
+		      <tbody>
+		      <tr>
+		        <td colspan="5">
+		        	<div class="input-field">
+		          		<input st-search="tradeid" id="tradeid" type="search"/>
+		          		<label for="tradeid">Search by Trade ID</label>
+		          	</div>
+		        </td>
+		      </tr>
+		      <tr ng-repeat="row in rowCollection">
+		        <td><a ng-href="/#/workflow/{{row.tradeid}}">{{row.tradeid | uppercase}}</a></td>
+		        <td>{{row.bulkid}}</td>
+		        <td>{{row.groupid}}</td>
+		        <td>{{row.quantity}}</td>
+		        <td>{{row.status}}</td>
+		      </tr>
+		      </tbody>
+		    </table>
+		</div>
+	</div>
+</div>
